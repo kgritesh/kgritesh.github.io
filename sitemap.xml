@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://kgritesh.github.io/about/</loc>
+    <loc>https://codeshelf.net/about/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/license/</loc>
+    <loc>https://codeshelf.net/license/</loc>
     <lastmod>2017-04-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/tags/about/</loc>
+    <loc>https://codeshelf.net/categories/about/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/categories/about/</loc>
+    <loc>https://codeshelf.net/tags/about/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/categories/</loc>
+    <loc>https://codeshelf.net/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/</loc>
+    <loc>https://codeshelf.net/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/tags/personal/</loc>
+    <loc>https://codeshelf.net/categories/personal/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/categories/personal/</loc>
+    <loc>https://codeshelf.net/tags/personal/</loc>
     <lastmod>2017-04-01T12:33:26+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kgritesh.github.io/tags/</loc>
+    <loc>https://codeshelf.net/tags/</loc>
     <priority>0</priority>
   </url>
   

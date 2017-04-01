@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal on CodeShelf</title>
-    <link>https://kgritesh.github.io/categories/personal/index.xml</link>
+    <link>https://codeshelf.net/categories/personal/index.xml</link>
     <description>Recent content in Personal on CodeShelf</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://kgritesh.github.io/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://codeshelf.net/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://kgritesh.github.io/about/</link>
+      <link>https://codeshelf.net/about/</link>
       <pubDate>Sat, 01 Apr 2017 12:33:26 +0530</pubDate>
       
-      <guid>https://kgritesh.github.io/about/</guid>
+      <guid>https://codeshelf.net/about/</guid>
       <description>&lt;p&gt;I am Ritesh Kadmawala, cofounder and CTO at &lt;a href=&#34;https://loanzen.in&#34;&gt;Loanzen&lt;/a&gt;. This is my small den on internet.
 I am a big time sports buff and an avid supporter of &lt;a href=&#34;https://en.wikipedia.org/wiki/India_national_cricket_team&#34;&gt;Indian Cricket Team&lt;/a&gt;,
 &lt;a href=&#34;www.liverpoolfc.com/&#34;&gt;Liverpool Football Club&lt;/a&gt;, &lt;a href=&#34;www.nba.com/spurs/&#34;&gt;San Antonio Spurs&lt;/a&gt; and
